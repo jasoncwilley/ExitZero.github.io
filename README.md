@@ -1,5 +1,5 @@
 # jasoncwilley.github.io
-#Pre-Work Assignment Week #1 
+#Pre-Work Assignment 
 
 #Profile Links
 GitHub https://github.com/jasoncwilley
