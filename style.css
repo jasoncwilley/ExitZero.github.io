@@ -18,19 +18,17 @@ body {
 }
 #header2 { 
   color: black;
-  text-align: right;
+  text-align: left;
   margin-left: 10px;
 }
 #paragrpah {
   color: black;
   margin: 10px;
-  text-align: center;
   font-family: "Courier";
   font-size: 10px;
 }
-
 #header3 { 
-  color: #black;
+  color: black;
   text-align: left;
   margin: 10px;
 }
