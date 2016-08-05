@@ -2,12 +2,12 @@ body {
     background: #9c9f84;
     margin: 0px;
     font-family: "Courier"
-    font-size: 114pt;
+    font-size: 96pt;
 }
 #header { 
  background-color: #5c755e;
- margin: 75px;
- height: 60px;
+ margin: 25px;
+ height: 45px;
  border-radius: 5px;
  text-align: center;
 }
@@ -28,7 +28,7 @@ body {
   margin: 10px;
 }
 #paragraph2 {
-  color:black;
+  color: black;
   font-family: "Courier";
   font: 24pt;
 }
