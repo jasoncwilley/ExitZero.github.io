@@ -10,12 +10,6 @@ body {
  height: 75px;
  border-radius: 5px;
 }
-#navbar {
- background-color: #5c755e;
- margin: 10px;
- height: 35px;
- border-radius: 5px;
-}
 #header2 { 
   color: black;
   text-align: left;
