@@ -6,9 +6,10 @@ body {
 }
 #header { 
  background-color: #5c755e;
- margin: 100px;
- height: 75px;
+ margin: 75px;
+ height: 60px;
  border-radius: 5px;
+ text-align: center;
 }
 #header2 { 
   color: black;
