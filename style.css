@@ -1,19 +1,13 @@
 body {
     background: #9c9f84;
     margin: 0px;
-    font-family: "courier"
+    font-family: "Courier"
     font-size: 114pt;
-} 
+}
 #header { 
  background-color: #5c755e;
  margin: 100px;
  height: 75px;
- border-radius: 5px;
-}
-#navbar {
- background-color: #5c755e;
- margin: 10px;
- height: 35px;
  border-radius: 5px;
 }
 #header2 { 
@@ -24,7 +18,7 @@ body {
 #paragrpah {
   color: black;
   margin: 10px;
-  font-family: "courier";
+  font-family: "Courier";
   font-size: 10px;
 }
 #header3 { 
@@ -34,6 +28,6 @@ body {
 }
 #paragraph2 {
   color:black;
-  font-family: "courier";
+  font-family: "Courier";
   font: 24pt;
 }
