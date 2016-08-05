@@ -24,7 +24,7 @@ body {
 #paragrpah {
   color: black;
   margin: 10px;
-  font-family: "Courier";
+  font-family: "courier";
   font-size: 10px;
 }
 #header3 { 
@@ -34,6 +34,6 @@ body {
 }
 #paragraph2 {
   color:black;
-  font-family: "Times New Roman";
+  font-family: "courier";
   font: 24pt;
 }
