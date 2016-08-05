@@ -1,0 +1,51 @@
+body {
+    background: #9c9f84;
+    margin: 0px;
+    font-family: "courier"
+    font-size: 114pt;
+} 
+#header { 
+ background-color: #5c755e;
+ margin: 100px;
+ height: 75px;
+ border-radius: 5px;
+}
+#navbar {
+ background-color: #5c755e;
+ margin: 10px;
+ height: 35px;
+ border-radius: 5px;
+}
+#header2 { 
+  color: black;
+  text-align: right;
+  margin-left: 10px;
+}
+#paragrpah {
+  color: black;
+  margin: 10px;
+  text-align: center;
+  font-family: "Courier";
+  font-size: 10px;
+}
+
+#header3 { 
+  color: #black;
+  text-align: left;
+  margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+#paragraph2 {
+  color:black;
+  font-family: "Times New Roman";
+  font: 24pt;
+}
