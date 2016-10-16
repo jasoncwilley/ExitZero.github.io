@@ -1,2 +1,5 @@
-Website based on the Bootstrap Freelancer and Developer Theme. 
-I modified the them to include a blog section as well as a personal gallery of photos, more additions to come...
+Website based on the Bootstrap Freelancer and Developer Theme that I modified to include the following:
+
+   -Submit forms via FormSpree
+   -Tweaked Flat Icons with Gimp
+   -Blog Page added
