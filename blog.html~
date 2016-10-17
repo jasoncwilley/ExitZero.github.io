@@ -1,0 +1,35 @@
+--- 
+layout: page
+title: Blog
+---
+
+<!-- Blog Section -->
+    <section class="success" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center"><br><br>
+                    <h2>Exit Zer0's Blog</h2>
+                    <hr class="star-light">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-10">
+                    <p>Exit Zer0 is a group of freelance Web Developers, Graphic Designers and Software Engineers that assist small to medium size businesses who seek to modernize thier business model.  Our staff has wide range of previous expierence to draw upon which allows us to provide unique sustainable solutions tailored to the that allows us to develsolutions that will alleviate unique solutions to spe tailored to fit the customer's individual needs.  Whether you're a individual with an idea for an application or an large business who who would like assistance </p>
+                </div>
+                <div class="col-lg-10">
+                    <p> accessing and implementing technology based strategies designed to increase marketshare our team of professionals can help ensure your project's success.  The world of business is shifting and if you want to stay at the top of your field you must continually evaluate what is working and what's not.  Exit Zer0 specializes in helping their clients utilize thier current business model and work flow process to collect the data needed to evaluate performance and make informed decisions that are sure to increase your bottom.</p>
+                </div>
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <a href="contact.html"class="btn btn-lg btn-outline">
+                        <i class="fa fa-calendar-check-o" aria-hidden="true"></i>Contact Us Today
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End About Me Section -->
+
+{% include footer.html %}
+
+
+
